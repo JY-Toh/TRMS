@@ -56,3 +56,13 @@ If the BenCo changes the reimbursement amount, the Employee should be notified a
 If the BenCo does not approval in a timely matter, an escalation email should be sent to the BenCo’s direct supervisor.  
 
 
+The link below directs you to a google drive folder that contains my exported pega application named "AIGClaims".
+https://drive.google.com/file/d/1N8X0_wIn9MfUJQpr5Y4v9DXbWct42XPS/view?usp=sharing
+
+The project is made up of the case type 'Reimbursement' and the data type 'Employee'.
+Operators invoked for testing is of ID '000' and '005'.
+Main operators are:
+Benefit's Coordinator - '001'
+Deptarment Head - '002'
+Direct Supervisor -'003'
+Employee - '004'
